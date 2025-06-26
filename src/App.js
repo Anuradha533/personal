@@ -27,12 +27,13 @@ function App() {
             <main className='main'>
                 <Home />
                 <About />
-                <Services />
+               
                 <Resume />
                 <Portfolio />
+                <Services />
                 <Testimonials />
-                <Blog />
-                <Contact theme={theme} />
+                {/* <Blog />
+                <Contact theme={theme} /> */}
             </main>
         </div>
     );

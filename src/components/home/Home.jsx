@@ -15,7 +15,7 @@ const Home = () => {
 
                 <HeaderSocials style={{ marginLeft: '50px' }} />
 
-                <a href="#contact" className="btn"> Contact Me</a>
+                {/* <a href="#contact" className="btn"> Contact Me</a> */}
 
                 <ScrollDown />
             </div>

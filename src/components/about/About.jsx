@@ -20,13 +20,17 @@ const About = () => {
                 <div className="about__data grid">
     <div className="about__info">
         <p className="about__description">
-            Hello! I'm Anuradha, currently based in Cleveland, Ohio, originally from Hyderabad, India. I'm a Master's student in Software Engineering at Cleveland State University, where I'm gaining hands-on experience in full-stack development, data analytics, and DevOps practices.<br /><br />
-            
-            Prior to my graduate studies, I worked as a Software Engineer at DXC Technology, where I developed backend APIs for enterprise insurance applications using Java and Spring Boot. I’m currently working as a Graduate Assistant specializing in web design and CMS development using Drupal, while also contributing to real-world team projects involving admin dashboards, task management platforms, and chatbot solutions.<br /><br />
-            
-            Fast forward to today, I'm focused on expanding my portfolio with impactful backend and data-driven projects. I enjoy exploring new technologies, solving challenging problems, and working collaboratively in agile environments. I'm passionate about building scalable, efficient systems and continuously leveling up my technical skills to become a well-rounded software engineer.<br /><br />
+        👋 <b> Hi, I’m Anuradha  </b>  <br></br>
+Java Full-Stack Developer | Drupal Developer
+<br></br>
+Creative problem-solver passionate about building smart, scalable, and beautifully crafted digital solutions.
+<br></br>
 
-            Here are a few technologies I’ve been working with recently:
+🌱 More About Me: <br></br>
+I recently graduated with a Master’s in Software Engineering from Cleveland State University and am currently seeking full-time opportunities that align with my passion for backend development, intuitive frontend design, and innovative problem-solving.
+Originally from Hyderabad, India, I’ve gained hands-on experience through my roles at DXC Technology and as a Graduate Assistant at CSU. At DXC, I built and maintained backend APIs for enterprise applications using Java and Spring Boot. At CSU, I specialized in Drupal-based web design and contributed to impactful team projects involving dashboards, admin panels, and chatbot interfaces.
+
+Now, I'm eager to join a forward-thinking team where I can continue to learn, contribute, and grow, while pushing the boundaries of creativity and technology in every project I take on.
         </p>
         <ul className="about__list">
             <li>Java & Spring Boot (REST APIs, Spring Security, JPA)</li>

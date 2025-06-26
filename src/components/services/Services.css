@@ -16,7 +16,7 @@
 }
 
 .services__card:nth-child(1) {
-  background-color: rgb(108, 108, 229);
+  background-color: rgb(33 33 41);
   box-shadow: 0 5px 20px 0 rgb(108, 108, 229 / 50%);
 }
 
