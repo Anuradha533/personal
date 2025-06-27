@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/personal/static/css/main.d86506f4.css",
-    "main.js": "/personal/static/js/main.883a28cd.js",
+    "main.css": "/personal/static/css/main.4684c70e.css",
+    "main.js": "/personal/static/js/main.2fe68e2e.js",
+    "static/media/bliss.png": "/personal/static/media/bliss.67bb64cbfdc77d5353ec.png",
+    "static/media/med.png": "/personal/static/media/med.75a8fd579d9fd3e24657.png",
     "static/media/aa-modified.png": "/personal/static/media/aa-modified.e05b23311d86c04e19dc.png",
-    "static/media/travel.png": "/personal/static/media/travel.3f1e703c327327f3a246.png",
-    "static/media/native-jobs.png": "/personal/static/media/native-jobs.aefeaca3698579f1e739.png",
+    "static/media/wintert.png": "/personal/static/media/wintert.79feb72eb26f2670899b.png",
+    "static/media/RUN.png": "/personal/static/media/RUN.81e5c026e6e1c9effa62.png",
+    "static/media/MOM.png": "/personal/static/media/MOM.fac3c68325133f0c8af6.png",
     "static/media/blog-1.svg": "/personal/static/media/blog-1.7f5fb5b0228f104a981e9809017a1cb2.svg",
     "static/media/cryptoverse.png": "/personal/static/media/cryptoverse.9082016cd20b7f1e0ae0.png",
-    "static/media/resume.pdf": "/personal/static/media/resume.ba202811364d86a2dbfe.pdf",
+    "static/media/ide.png": "/personal/static/media/ide.dc3c58e9d0c174d1401e.png",
+    "static/media/resume.pdf": "/personal/static/media/resume.7d31400ba279bbfb3db5.pdf",
+    "static/media/TrafficProject.png": "/personal/static/media/TrafficProject.f1d003d411a87e11c512.png",
     "static/media/avatar-3.svg": "/personal/static/media/avatar-3.5bf46e6d1530bd73b02b567041e76e4d.svg",
-    "static/media/avatar-4.svg": "/personal/static/media/avatar-4.1859fab5f65d2a41fed620abbb0170e5.svg",
-    "static/media/service-3.svg": "/personal/static/media/service-3.5ce3e21e961c980ca809977cf695357b.svg",
-    "static/media/service-2.svg": "/personal/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
-    "static/media/service-1.svg": "/personal/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
     "static/media/logo.svg": "/personal/static/media/logo.bdf08059527dc09e6d4f42d7c9d78b22.svg",
     "static/media/dots-bg-dark.svg": "/personal/static/media/dots-bg-dark.3a79e4a2778386f14af1.svg",
     "static/media/dots-bg.svg": "/personal/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "static/media/light-logo.svg": "/personal/static/media/light-logo.533c20f31bf65c1c1d8c3a6d407f5304.svg",
     "index.html": "/personal/index.html",
-    "main.d86506f4.css.map": "/personal/static/css/main.d86506f4.css.map",
-    "main.883a28cd.js.map": "/personal/static/js/main.883a28cd.js.map"
+    "main.4684c70e.css.map": "/personal/static/css/main.4684c70e.css.map",
+    "main.2fe68e2e.js.map": "/personal/static/js/main.2fe68e2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d86506f4.css",
-    "static/js/main.883a28cd.js"
+    "static/css/main.4684c70e.css",
+    "static/js/main.2fe68e2e.js"
   ]
 }
