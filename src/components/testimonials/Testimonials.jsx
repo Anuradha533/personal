@@ -1,6 +1,6 @@
 import React from 'react';
 import './Testimonials.css';
-import Image3 from '../../assets/avatar-3.svg'
+import Image3 from '../../assets/bob.png'
 import Image4 from '../../assets/bliss.png'
 
 import { Pagination } from 'swiper';
@@ -17,16 +17,16 @@ const Testimonials = () => {
 			image: Image4,
 			title: "Sharon Bliss",
 			subtitle: "Manager @ Community Information services and web specialist",
-			comment: "I enjoy working with the theme and learn so much. You guys make the process fun and . Good luck! 👍",
+			comment: "You've been a great help during the transition phase and consistently delivered quality work—really appreciate your support!"
 		},
 		{
 			id: 2,
 			image: Image3,
 			title: "BOB MARTEL",
-			subtitle: "",
-			comment: "Anu worked at Entrostat as a full-stack developer. He was excellent and had a real eye for design. If there was ever a time where we had a complicated frontend or needed to know what the best CSS approach was for something - Greg was our goto man!",
+			subtitle: "Systems-Manager @ Urban college",
+			comment: "Nice work supporting students and staff with tech issues—really appreciated!",
 		},
-		
+
 	];
 
 	return (

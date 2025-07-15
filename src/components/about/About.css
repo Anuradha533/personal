@@ -32,6 +32,12 @@
 }
 
 .about__list {
+   /* This makes bullets visible */
+  padding-left: 20px;    /* Indent bullets properly */
+}
+
+
+.about__list {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   margin-bottom: 1rem;

@@ -11,15 +11,14 @@ const Blog = () => {
             <div className="blog__container grid">
                 <div className="blog__card">
                     <div className="blog__thumb">
-                        <a href="#"><span className="blog__category">Example</span></a>
-                        <a href="#"><img src={Image1} alt="" className='blog__img' /></a>
+                        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7315813419155181571/"><span className="blog__category">Hackathon CSU</span></a>
+                        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7315813419155181571/"><img src={Image1} alt="" className='blog__img' /></a>
                     </div>
                     <div className="blog__details">
-                        <h3 className="blog__title">Example Blog</h3>
+                        <h3 className="blog__title">Hackathon</h3>
                         <div className="blog__meta">
-                            <span>09 February, 2022</span>
-                            <span className="blog__dot">.</span>
-                            <span>Greg</span>
+                            <span className="blog__dot">Team MAYA</span>
+                            <span></span>
                         </div>
                     </div>
                 </div>
