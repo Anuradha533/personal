@@ -1,13 +1,9 @@
 import React from 'react';
 import './About.css';
 import Image from '../../assets/aa-modified.png';
-import Resume from '../../assets/resume.pdf';
 import AboutBox from './AboutBox';
 
 const About = () => {
-    const downloadResume = async () => {
-        window.open(Resume, '_blank');
-    }
 
 
     return (
@@ -20,7 +16,7 @@ const About = () => {
                 <div className="about__data grid">
     <div className="about__info">
     <p className="about__description">
-  👋 <b>Hey there! I'm Anuradha Lacholla</b><br />
+  👋 <b>Hey there! I'm Anuradha</b><br />
   <b>Java Full-Stack Developer | Web Designer | Drupal Developer </b>
 </p>
 
@@ -71,9 +67,6 @@ const About = () => {
   <li><b>Visualization & Analytics:</b> Power BI, Tableau</li>
   <li><b>CS Fundamentals:</b> Data Structures, Algorithms, System Design, Design Patterns</li>
 </ul>
-
-
-        <button className="btn" onClick={downloadResume}>Download CV</button>
     </div>
 
 
